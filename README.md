@@ -1,2 +1,2 @@
 # Miss-K
-UX/UI designer learning code
+UX/UI designer learning to code
